@@ -1,5 +1,6 @@
 # Any-Language Wordle Clone
 
+## My version of Hakka Wordle can visit [here](http://milanochuang.github.io/AnyLanguage-Wordle)
 ## Changes in this fork
 
 I've adapted this code to allow for simply adapting it to another language. The wordlist and orthography (writing system) here are for the Gitksan language, but this repository is meant to be adapted to other languages. I've also added a script for publishing on GitHub Pages.
