@@ -21,7 +21,7 @@ import ReactGA from 'react-ga'
 import '@bcgov/bc-sans/css/BCSans.css'
 import './i18n'
 import { withTranslation, WithTranslation } from 'react-i18next'
-
+// Change minor thing
 const ALERT_TIME_MS = 2000
 
 const App: React.FC<WithTranslation> = ({ t, i18n }) => {
